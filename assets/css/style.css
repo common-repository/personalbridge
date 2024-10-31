@@ -1,0 +1,57 @@
+.theme-flatsome .nf-product-single input, 
+.theme-flatsome #pb-artwork-form input, 
+.theme-flatsome .nf-product-single select, 
+.theme-flatsome #pb-artwork-form select{
+	padding: 0 .75em;
+}
+
+.theme-flatsome .nf-product-single .cart-qty select,
+.theme-flatsome .nf-product-single .cart-qty input{
+	height: unset;
+	padding: 14px 10px;
+}
+
+.theme-flatsome .nf-product-single .btn-add-to-cart,
+.theme-flatsome .nf-product-single button.btn-preview{
+	padding: 14px 10px;
+    height: unset;
+    min-height: unset;
+    line-height: normal;
+}
+.theme-flatsome .nf-product-single button.btn-preview {
+	background: #ddd;
+    border: 1px solid #d8d4d4;
+}
+
+.single-product .nf-product-single .price-wrapper,
+.single-product .nf-product-single .price{
+	display: none!important;
+}
+
+.theme-shoptimizer .nf-product-single #personalized-form select {
+	padding: 0 10px;
+	width: 100%;
+}
+.theme-shoptimizer .nf-product-single #personalized-form input {
+	padding: 6px 10px;
+	width: 100%;
+}
+
+.theme-shoptimizer #personalized-form .btn-preview {
+	margin-bottom: 20px;
+}
+
+.theme-shoptimizer .add-to-cart-group .cart-qty input, 
+.theme-shoptimizer .add-to-cart-group .cart-qty select {
+	height: 56px;
+}
+
+.theme-shoptimizer .add-to-cart-group .cart-qty label {
+	color: #333;
+    text-transform: capitalize;
+}
+
+.theme-shoptimizer #personalized-form .product-attributes {
+	width: 100%;
+    flex-direction: column;
+}
